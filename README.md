@@ -2,7 +2,8 @@
 
 ### ME
 
-- 🔭 Studying Python 3, c++ etc
+- Started programming with C
+- 🔭 Studying Python 3, C++ etc
 - 🤔 Algorithm...
 - 💬 Imagine AI npc
 - 📫 E-mail : baebini@naver.com
