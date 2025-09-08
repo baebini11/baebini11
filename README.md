@@ -6,7 +6,7 @@ CAU
 
 KOMCA musician since 2020~
 
-Studied in SSAFY 2024.01~2024.12
+SSAFY 2024.01~2024.12
 
 
 ### STACKS 
