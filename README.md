@@ -21,5 +21,3 @@ SSAFY 2024.01~2024.12
 <img src="https://img.shields.io/badge/sql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/photon-20232a.svg?style=for-the-badge&logo=photon&logoColor=004480" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baebini11&layout=compact)
